@@ -50,3 +50,21 @@ font-size: 20px;
 .movie_text span {
     color: #ff7700;
 }
+
+.environment_li {
+    margin-top: 14px;
+    
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+    
+}
+.environment_li p {
+    margin-top: 10px;
+}
